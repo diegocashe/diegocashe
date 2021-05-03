@@ -17,7 +17,7 @@ To complete, I will finish filling the File provided by github :alien::
 - 👀 I’m interested in web development and automation through the web apps.
 - 🌱 I’m currently learning React.js.
 - 💞 I’m looking to collaborate on Node.js proyects.
-- 📫 How to reach me... you can write to my LinkeId profile, [go to LinkedIn profile](https://www.linkedin.com/in/diego-castillo-86b75a123/).
+- 📫 How to reach me... you can write to my LinkedIn profile, [go to LinkedIn profile](https://www.linkedin.com/in/diego-castillo-86b75a123/).
 
 I am really grateful to you for seeing my profile and I would like you to take a look at my repository:fire::fire:.
 
